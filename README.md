@@ -67,6 +67,10 @@ Interactive web-based dashboard developed during RevoU MSIB Batch 6.
 * **LinkedIn:** https://www.linkedin.com/in/aris-munandar-1802amdr/
 * **Email:** mailto:aris.munandar1802.com
 * **GitHub:** [arismnndr](https://github.com/arismnndr)
+* 
+* **LinkedIn:** [Aris Munandar](https://www.linkedin.com/in/aris-munandar-1802amdr/)
+* **Email:** [aris.munandar1802@gmail.com](mailto:aris.munandar1802@gmail.com)
+* **GitHub:** [arismnndr](https://github.com/arismnndr)
 
 ---
 *Created by Aris Munandar © 2025*

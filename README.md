@@ -1,6 +1,3 @@
-# Hi there, I'm Aris Munandar! 👋
-### Computer Science Graduate | Data Analyst | Web Developer
-
 Welcome to my portfolio repository! Here you will find a collection of my projects demonstrating my skills in Data Analysis, Machine Learning, and Web Development.
 
 ---

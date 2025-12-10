@@ -1,5 +1,7 @@
 Welcome to my portfolio repository! Here you will find a collection of my projects demonstrating my skills in Data Analysis, Machine Learning, and Web Development.
 
+![License](https://img.shields.io/github/license/arismnndr/Web_portfolio?style=for-the-badge&logo=github)
+
 ---
 
 ## 📫 Connect with Me
